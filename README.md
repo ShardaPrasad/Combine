@@ -17,3 +17,7 @@ A simple SwiftUI demo app that fetches and displays data from a REST API using *
 - iOS 14.0+
 - Xcode 12+
 - Swift 5+
+
+📧 Contact Me
+
+Email:shardaprasad111@gmail.com LinkedIn: https://www.linkedin.com/in/sharda-prasad-745a6617/
