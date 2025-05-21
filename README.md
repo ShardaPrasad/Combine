@@ -11,12 +11,16 @@ A simple SwiftUI demo app that fetches and displays data from a REST API using *
 - Generic API service with `URLSession` and `Publisher`
 - Reusable and testable components
 - Minimal and responsive UI
+- NEEXT: Upload image using same
 
 ## 🛠 Requirements
 
 - iOS 14.0+
 - Xcode 12+
 - Swift 5+
+
+
+
 
 📧 Contact Me
 
